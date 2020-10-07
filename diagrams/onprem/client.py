@@ -20,4 +20,8 @@ class Users(_Client):
     _icon = "users.png"
 
 
+class Jira(_Client):
+    _icon = "jira.png"
+
+
 # Aliases
